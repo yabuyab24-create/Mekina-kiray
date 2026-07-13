@@ -1,0 +1,6 @@
+{
+  "name": "Mekina Kiray",
+  "description": "A premium offline-first Car Rental application for Addis Ababa, Ethiopia. Rent vehicles, manage bookings, and host your own fleet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
